@@ -1,0 +1,36 @@
+{
+  "bookmarks": [
+    {
+      "id": "378844461",
+      "name": "窝窝头 - 乐观向上,开朗豁达",
+      "url": "https://blog.lingkongstudy.com.cn",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1701666748380,
+      "modified": 1701666748380
+    },
+    {
+      "id": "2014068036",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "description": "A awesome note-taking tool",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1672840861051,
+      "modified": 1672840861052
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

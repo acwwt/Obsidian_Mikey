@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "e8b4ea94b39a8520",
+    "type": "split",
+    "children": [
+      {
+        "id": "e81c599a533d18e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49558340f38b3250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BT_Example/88-Template/home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "687357708cbc920f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc1edcafd063cfb",
+        "type": "tabs",
+        "dimension": 54.46650124069479,
+        "children": [
+          {
+            "id": "37c8f55a8ef7a09c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3290ae399933a0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "电影",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d21402f76dc34c3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d877e8285f98a38a",
+        "type": "tabs",
+        "dimension": 45.53349875930521,
+        "children": [
+          {
+            "id": "b37bc3d287f74512",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "80430a4f104c0c57",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ee52b332527fc75",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255
+  },
+  "right": {
+    "id": "4e390742ffc29613",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c25b22f0c7d5f0",
+        "type": "tabs",
+        "dimension": 41.33165829145729,
+        "children": [
+          {
+            "id": "ca4e910af4602420",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "340969ccd24905e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BT_Example/88-Template/home.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0b3485207df574dd",
+        "type": "tabs",
+        "dimension": 58.66834170854271,
+        "children": [
+          {
+            "id": "041c78328387b373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BT_Example/88-Template/home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc4a81bfd6624166",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BT_Example/88-Template/home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2ae90cb6049dbe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab07af5359364144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BT_Example/88-Template/常用工具.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "surfing:surfing-bookmark-manager": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "49558340f38b3250",
+  "lastOpenFiles": [
+    "大模型基础/book/ch01.md",
+    "大模型基础/note/Task01-大模型基础.md",
+    "大模型基础/note",
+    "大模型基础/book",
+    "BT_Example/88-Template/home.md",
+    "Excalidraw/Drawing 2024-01-06 20.38.13.excalidraw.md",
+    "BT_Example/99-Attach/Pasted Image 20240107200457_818.png",
+    "Excalidraw/Drawing 2023-12-01 12.35.24.excalidraw.md",
+    "BT_Example/99-Attach/Pasted Image 20240106204131_801.png",
+    "BT_Example/99-Attach/Pasted Image 20240106203843_804.png",
+    "八年级数学.md",
+    "BT_Example/99-Attach/Pasted image 20240106203801.png",
+    "软件工程复习.md",
+    "BT_Example/99-Attach/Pasted image 20240101141211.png",
+    "BT_Example/99-Attach/Pasted image 20240101141052.png",
+    "BT_Example/99-Attach/Pasted image 20240101141033.png",
+    "BT_Example/99-Attach/Pasted image 20240101140914.png",
+    "BT_Example/99-Attach/Pasted image 20240101140741.png",
+    "BT_Example/99-Attach/Pasted image 20240101140257.png",
+    "BT_Example/88-Template/常用工具.md",
+    "从这开始.md",
+    "Drawing.md",
+    "Excalidraw",
+    "NEW B 排序三人组.md",
+    "魔方配色设置说明.md",
+    "2023-11-29.md",
+    "Changlog.md",
+    "BT_Example/88-Template/EnablepluginList/Edit+.md",
+    "BT_Example/88-Template/88-Template.md",
+    "cedict_ts.u8",
+    "BT_Example/88-Template/script/template/template.md",
+    "BT_Example/88-Template/script/template/getweather.js",
+    "BT_Example/88-Template/script/template/taskprogress.js",
+    "BT_Example/88-Template/script/template/getTitleSnippet.js",
+    "BT_Example/88-Template/script/template/getrandomImage.js",
+    "BT_Example/88-Template/script/tasksCalendar/view.js",
+    "BT_Example/88-Template/script/tasksCalendar/view.css",
+    "BT_Example/88-Template/script/tasksCalendar/tasksCalendar.md",
+    "BT_Example/88-Template/script/tasksCalendar/README.md",
+    "BT_Example/88-Template/script/notesList/notesList.md",
+    "BT_Example/88-Template/script/notesList/README.md",
+    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/常用Dataview片段.md",
+    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/入门到退坑系列.md",
+    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/TODOs with text-based Countdown.md",
+    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Today's Notes.md",
+    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Today in the past.md"
+  ]
+}

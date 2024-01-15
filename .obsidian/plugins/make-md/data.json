@@ -1,0 +1,156 @@
+{
+  "filePreviewOnHover": false,
+  "markSans": true,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "inlineStylerColors": true,
+  "editorFlow": true,
+  "editorFlowStyle": "seamless",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "spacesStickers": true,
+  "spacesDisablePatch": false,
+  "sidebarRibbon": false,
+  "sidebarTabs": true,
+  "deleteFileOption": "trash",
+  "folderRank": {
+    "node": "",
+    "children": [
+      {
+        "node": "BT_Example/00-Tips",
+        "children": [
+          {
+            "node": "BT_Example/00-Tips.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Obsidian 库中库玩法.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "fastgithub 加速访问Ob社区.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "如何在dataview查询使用本地图片.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Obsidian 一键开启悬浮.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "如何在Obsidian中添加图书卡片.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "如何在Obsidian中添加电影卡片.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "如何导出dataview表格 或者普通表格成csv格式？.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "如何快速停用或者启动插件？.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "如何快速生成MOC(文件夹的文件目录列表)？.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "如何提高Obsidian的启动速度？.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "插件介绍",
+            "children": [
+              {
+                "node": "booknote插件-更好的pdf office文档阅读和标注神器.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "floating toc.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Obsidian Editing Toolbar Plugin.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Obsidian 插件之 Obsidian Projects .html",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "插件介绍.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "表格增强插件.md",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "示例库移植说明",
+            "children": [
+              {
+                "node": "如何全功能移植Blue Topaz 示例库到自己的库中.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "如何在OB里添加多彩时钟和音乐播放器.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "如何把示例库移植到你现有的库中？.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "如何移植主页的各个元素？.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "示例库移植说明.md",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "配色分享monokai pro 配色.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "魔方配色设置说明.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "
