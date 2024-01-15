@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "home",
-      "path": "BT_Example/88-Template/home.md"
-    },
-    {
       "basename": "ch01",
       "path": "大模型基础/book/ch01.md"
     },
     {
       "basename": "Task01-大模型基础",
       "path": "大模型基础/note/Task01-大模型基础.md"
+    },
+    {
+      "basename": "从这开始",
+      "path": "从这开始.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "home",
+      "path": "BT_Example/88-Template/home.md"
     },
     {
       "basename": "Drawing 2024-01-06 20.38.13.excalidraw",
@@ -35,10 +43,6 @@
     {
       "basename": "Pasted image 20231204131542",
       "path": "BT_Example/99-Attach/Pasted image 20231204131542.png"
-    },
-    {
-      "basename": "从这开始",
-      "path": "从这开始.md"
     },
     {
       "basename": "NEW B 排序三人组",
@@ -195,10 +199,6 @@
     {
       "basename": "tp-日记模板-日历",
       "path": "BT_Example/88-Template/tp/tp-日记模板-日历.md"
-    },
-    {
-      "basename": "memos模板",
-      "path": "20-Diary/memos模板.md"
     }
   ],
   "omittedPaths": [],

@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BT_Example/88-Template/home.md",
+                "file": "大模型基础/note/Task01-大模型基础.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bc7195d32e30812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型基础/book/ch01.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BT_Example/88-Template/home.md"
+                "file": "大模型基础/book/ch01.md"
               }
             }
           }
@@ -144,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BT_Example/88-Template/home.md",
+                "file": "大模型基础/book/ch01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BT_Example/88-Template/home.md",
+                "file": "大模型基础/book/ch01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,13 +229,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "49558340f38b3250",
+  "active": "4bc7195d32e30812",
   "lastOpenFiles": [
-    "大模型基础/book/ch01.md",
     "大模型基础/note/Task01-大模型基础.md",
+    "从这开始.md",
+    "README.md",
+    "BT_Example/88-Template/home.md",
+    "大模型基础/book/ch01.md",
     "大模型基础/note",
     "大模型基础/book",
-    "BT_Example/88-Template/home.md",
     "Excalidraw/Drawing 2024-01-06 20.38.13.excalidraw.md",
     "BT_Example/99-Attach/Pasted Image 20240107200457_818.png",
     "Excalidraw/Drawing 2023-12-01 12.35.24.excalidraw.md",
@@ -237,7 +253,6 @@
     "BT_Example/99-Attach/Pasted image 20240101140741.png",
     "BT_Example/99-Attach/Pasted image 20240101140257.png",
     "BT_Example/88-Template/常用工具.md",
-    "从这开始.md",
     "Drawing.md",
     "Excalidraw",
     "NEW B 排序三人组.md",
@@ -261,7 +276,6 @@
     "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/常用Dataview片段.md",
     "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/入门到退坑系列.md",
     "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/TODOs with text-based Countdown.md",
-    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Today's Notes.md",
-    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Today in the past.md"
+    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Today's Notes.md"
   ]
 }
